@@ -21,7 +21,7 @@ PSK: __RyansLab!__
 
 
 ## Objective  
-This Network Design lab aims to apply my understanding of Network Infrastructure and demonstrates a working knowledge of how to build redundant and scalable networks. The goal is also to build a functional lab where all services in the virtual environment are able to communicate with each other.
+This Network Design lab aims to apply my understanding of Network Infrastructure and demonstrates a working knowledge of how to build redundant and scalable networks. The goal is also to build a functional lab where all components in the virtual environment are able to communicate with each other.
 
 ## Skills Learned
 - Designing a resilient and scalable network
